@@ -1,5 +1,17 @@
 # Linguagem-Markdown
-Guia de linguagem Markdown.
+Guia de linguagem Markdown tirado do curso de Git e GitHub do Curso em Vídeo.
+
+## Títulos
+
+Para adicionar um título, basta colocar # no início do texto. A quantidade de # diz o nível do título, que vai do 1 até o 6.
+
+# Título de nível 1
+
+## Título de nível 2
+
+## Título de nível 3
+
+#### Título de nível 4 e por aí vai...
 
 ## Formatações simples
 
@@ -18,7 +30,7 @@ Exemplo: ~~Texto deletado~~
 ### Listas
 
 #### Listas numeradas
-Basta digitar 1. no começo de cada linha que vai ser numerada normalmente ou após terminar uma linha, apertar Enter, que já vai ser automaticamente preenchido
+Basta digitar 1. no começo de cada linha que vai ser numerada normalmente ou após terminar uma linha, apertar Enter, que já vai ser automaticamente preenchido.
 
 1. Teste 1
 2. Teste 2
@@ -48,7 +60,7 @@ Basta digitar - [ ] no começo. Quando a tarefa estiver concluída, é só adici
 
 ## Adicionando imagens
 
-Arraste a imagem que ou clique no que está escrito: **''Paste, drop, or click to add files''**. O recomendado é adicionar imagens com no máximo 500 de largura, imagens muito grandes podem atrapalhar a leitura.
+Arraste a imagem que deseja ou clique no que está escrito: **''Paste, drop, or click to add files''**. O recomendado é adicionar imagens com no máximo 500 de largura, imagens muito grandes podem atrapalhar a leitura.
 
 ![Octopus Cat](https://github.com/user-attachments/assets/9b16c46c-62be-44ee-bc20-bb267fb433dd)
 
