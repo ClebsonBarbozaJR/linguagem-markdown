@@ -77,8 +77,8 @@ Abaixo disso, é só digitar os campos, dá um espaço e adicionar uma |.
 
 id | Nome | Curso
 --- | --- | ---
-1 | Gustavo | Algoritimos
-2 | José | HTML5
+1 | Gustavo | MySQL
+2 | Victor | HTML5
 3 | Ana | Python 3
 4 | Alana | PHP
 
