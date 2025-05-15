@@ -100,11 +100,11 @@ else:
 
 ## Emojis
 
-Para adicionar emojis, basta digitar : e a texto que representa tal emoji, tudo junto. Para ver todas as sintaxes de todos os emojis, acesse o [repositório da ikatyang](https://github.com/ikatyang/emoji-cheat-sheet). 👈 👈 
+Para adicionar emojis, basta digitar : e o texto que representa tal emoji, tudo junto. Para ver todas as sintaxes de todos os emojis, acesse o [repositório da ikatyang](https://github.com/ikatyang/emoji-cheat-sheet). 👈 👈 
 
 ## Reply
 
-Para fazer um Reply (responder alguém), basta colocar antes do texto, um > ou clicar na opção Quote Reply nas reticências.
+Para fazer um Reply (responder alguém), basta colocar antes do texto, um > ou clicar na opção Quote Reply nas reticências da pessoa que quer responder.
 
 > Texto que quero responder.
 
