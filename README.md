@@ -91,7 +91,7 @@ Existe um tipo de formatação nas linguagem de programação feita exclusivamen
 Mas caso queira mostrar um trecho de um programa, basta abrir três crases no início e no fim, e digitar o código dentro.
 
 ```
-num = int(input('Digite um número: ')
+num = int(input('Digite um número: '))
 if num % 2 == 0:
     print(f'O número {num} é PAR)
 else:
