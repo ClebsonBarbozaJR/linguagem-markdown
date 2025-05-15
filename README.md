@@ -66,7 +66,7 @@ Arraste a imagem que deseja ou clique no que está escrito: **''Paste, drop, or 
 
 ## Criando um link
 
-Adicione colchetes e parênteses. O colchete é para adicionar um texto e os parênteses é para por o link.
+Adicione colchetes e parênteses. Os colchetes é para adicionar um texto e os parênteses é para por o link.
 
 [Acesse meu perfil no Github](https://github.com/ClebsonBarbozaJR)
 
