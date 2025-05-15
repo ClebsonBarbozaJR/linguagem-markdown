@@ -84,7 +84,7 @@ id | Nome | Curso
 
 ## Formatação para códigos
 
-Existe um tipo de formatação nas linguagem de programação feitas exclusivamente para códigos ou trechos de programas por ser monoespaçada. Para um código específico, basta abrir e fechar crase no texto.
+Existe um tipo de formatação nas linguagem de programação feita exclusivamente para códigos ou trechos de programas por ser monoespaçada. Para um código específico, basta abrir e fechar crase no texto.
 
 `document.getElementById()`
 
