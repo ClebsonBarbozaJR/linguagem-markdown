@@ -1,5 +1,5 @@
 # Linguagem-Markdown
-Guia de linguagem Markdown tirado do curso de Git e GitHub do Curso em Vídeo.
+Guia de linguagem Markdown tirado do curso de Git e GitHub do Curso em Vídeo. Para acessar o curso completo [clique aqui](https://www.cursoemvideo.com/curso/curso-de-git-e-github/).
 
 ## Títulos
 
