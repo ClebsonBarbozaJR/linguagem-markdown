@@ -30,13 +30,13 @@ Exemplo: ~~Texto deletado~~
 ### Listas
 
 #### Listas numeradas
-Basta digitar 1. no começo de cada linha que vai ser numerada normalmente ou após terminar uma linha, apertar Enter, que já vai ser automaticamente preenchido.
+Basta digitar 1. no começo de cada linha ou após termino de uma, apertar Enter, que já vai ser automaticamente preenchido. Para fazer uma subdivião de uma lista, é só dá três espaços, irá ter funcionadp quando no lugar do 1. ser algarismos romanos.
 
 1. Teste 1
 2. Teste 2
    1. Teste Sub
    1. Teste Sub
-4. Teste 3
+5. Teste 3
 
 #### Listas demarcadas
 
