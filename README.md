@@ -88,7 +88,7 @@ Existe um tipo de formatação nas linguagem de programação feitas exclusivame
 
 `document.getElementById()`
 
-Mas caso queira mostrar um trecho de um programa, basta abrir três crases no início e três crases no fim e digitar o código dentro dele.
+Mas caso queira mostrar um trecho de um programa, basta abrir três crases no início e no fim, e digitar o código dentro dele.
 
 ```
 num = int(input('Digite um número: ')
