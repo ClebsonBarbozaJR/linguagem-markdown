@@ -48,9 +48,9 @@ São Listas sem marcação. Pode ser usado * ou - no começo.
    - Teste
 - Teste
 
-### Lista de tarefas
+#### Lista de tarefas
 
-Basta digitar - [ ] no começo. Quando a tarefa estiver concluída, é só adicionar um x dentro do espaço dos colchetes.
+Basta digitar - [ ] no começo. Quando a tarefa estiver concluída, é só adicionar um x dentro do espaço em branco entre os colchetes.
 
 - [x] Tarefa 1
 - [x] Tarefa 2
